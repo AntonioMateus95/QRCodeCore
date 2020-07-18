@@ -1,0 +1,8 @@
+D:\Projetos\QRCodeCore\bin\Debug\netstandard2.0\QRCodeCore.deps.json
+D:\Projetos\QRCodeCore\bin\Debug\netstandard2.0\QRCodeCore.dll
+D:\Projetos\QRCodeCore\bin\Debug\netstandard2.0\QRCodeCore.pdb
+D:\Projetos\QRCodeCore\obj\Debug\netstandard2.0\QRCodeCore.csprojAssemblyReference.cache
+D:\Projetos\QRCodeCore\obj\Debug\netstandard2.0\QRCodeCore.AssemblyInfoInputs.cache
+D:\Projetos\QRCodeCore\obj\Debug\netstandard2.0\QRCodeCore.AssemblyInfo.cs
+D:\Projetos\QRCodeCore\obj\Debug\netstandard2.0\QRCodeCore.dll
+D:\Projetos\QRCodeCore\obj\Debug\netstandard2.0\QRCodeCore.pdb
